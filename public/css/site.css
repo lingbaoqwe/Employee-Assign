@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(202, 86, 105);
+    font-family: 'Baloo Tammudu 2', cursive;
+    
+}
+.navbar-default{
+    background-color: greenyellow;
+}
+.navbar-default:hover{
+    background-color: rgb(32, 204, 124);
+}
+#bs-example-navbar-collapse-1 a:hover{
+    background-color: gold;
+}
+
+.table-responsive{
+    background-color: cornsilk;
+}
+
+table>thead>tr>th{
+    padding:4px;
+    text-align: left;
+}
+
+table>tbody>tr>td{
+    padding:4px;
+    text-align: left;
+}
